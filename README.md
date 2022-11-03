@@ -10,7 +10,7 @@
 
 ## Deployment
 
-Checkout our application here ✌ - [Geekbuying Clone](https://frolicking-moxie-feacd6.netlify.app/)
+Checkout our application here ✌ - [Geekbuying Clone](https://geek-buying.netlify.app//)
 
 
 
